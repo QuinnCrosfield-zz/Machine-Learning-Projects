@@ -1,1 +1,2 @@
-## This is a repository of projects completed in for a Machine Learning Course
+## This is a repository of projects completed for a Machine Learning Course
+
